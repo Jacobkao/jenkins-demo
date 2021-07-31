@@ -81,7 +81,7 @@
             <groupId>org.testng</groupId>
             <artifactId>testng</artifactId>
             <classifier>jdk15</classifier>
-            <version>11.0.11</version>
+            <version>7.0.0</version>
             <scope>test</scope>
         </dependency>
     </dependencies>
