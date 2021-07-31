@@ -79,10 +79,9 @@
         <!-- dependency with classifier -->
         <dependency>
             <groupId>org.testng</groupId>
-            <artifactId>testng</artifactId>
-            <classifier>jdk15</classifier>
-            <version>6</version>
-            <scope>test</scope>
+  <artifactId>testng</artifactId>
+  <version>6.8</version>
+  <scope>test</scope>
         </dependency>
     </dependencies>
 
